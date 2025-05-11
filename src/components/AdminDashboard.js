@@ -74,7 +74,8 @@ const AdminDashboard = ({
         <div className="container">
           <h2 className="header-title">Admin Dashboard</h2>
           <p className="header-text">
-            Use smart search functionality to enhance your data
+            Use smart search functionality to filter out and sort the
+            best candidates
           </p>
         </div>
       </section>
