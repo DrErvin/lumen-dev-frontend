@@ -111,7 +111,10 @@ const AdminDashboard = ({
 
       {/* Smart Search Form */}
       <section className="smart-search">
-        <h3 className="form-heading">Smart Search</h3>
+        <h3 className="form-heading">
+          Smart Search (This feature works only in local development
+          environment)
+        </h3>
         <form className="admin-search-form" onSubmit={handleSubmit}>
           <div className="admin-search-inputs">
             <input
